@@ -73,13 +73,6 @@ bash fun-commands.sh
 bash challenge-generator.sh
 ```
 
-### 🎨 Easter Eggs
-- Generador de nombres épicos para contenedores
-- Modo detective de contenedores
-- Certificados de logros personalizados
-- Cronómetro de velocidad DevOps
-- Temas visuales psicodélicos
-
 ---
 
 ## 🎨 Tecnologías utilizadas
@@ -98,16 +91,6 @@ bash challenge-generator.sh
 3. **Despliegue** en entornos cloud
 4. **Gestión** de contenedores
 5. **Automatización** con scripts bash
-
----
-
-## 🎉 Próximos pasos
-
-Una vez completado este reto:
-- ✅ Continuá con el **Día 2** del desafío
-- 🔄 Experimentá modificando la configuración NGINX
-- 🌐 Probá desplegando tu propio sitio web
-- 📝 Compartí tu experiencia en redes sociales con `#90DaysDevOps`
 
 ---
 

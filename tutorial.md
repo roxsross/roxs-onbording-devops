@@ -270,10 +270,10 @@ docker exec $(docker ps -q --filter ancestor=nginx-bootstrap) df -h
 
 ## 🤝 Comunidad y ayuda
 
-- 💬 **Discord**: [Únete a la comunidad DevOps](https://discord.gg/roxsross)
-- 📺 **YouTube**: [Canal de RoxsRoss](https://youtube.com/@roxsross)
-- 📚 **Blog**: [roxsross.github.io](https://roxsross.github.io)
+- 📺 **YouTube**: [Canal de RoxsRoss](https://youtube.com/@295devops)
+- 📚 **Blog**: [roxsross.github.io](https://blog.295devops.com)
 - 🐦 **Twitter**: [@roxsross](https://twitter.com/roxsross)
+- 💼 **LinkedIn**: [RoxsRoss en LinkedIn](https://www.linkedin.com/in/roxsross/)
 
 ---
 
