@@ -1,0 +1,30 @@
+# Google Cloud Shell configuration
+# Este archivo configura el comportamiento de Cloud Shell para el tutorial
+
+# Tutorial que se abrirá automáticamente
+cloudshell_tutorial:
+  path: tutorial.md
+
+# Configuraciones adicionales
+environment:
+  # Variables de entorno útiles
+  DOCKER_BUILDKIT: "1"
+  COMPOSE_DOCKER_CLI_BUILD: "1"
+
+# Comandos que se ejecutarán al iniciar
+pre_requisites:
+  - title: "Verificar Docker"
+    description: "Verificamos que Docker esté disponible"
+    command: "docker --version"
+  
+  - title: "Verificar Git"  
+    description: "Verificamos que Git esté disponible"
+    command: "git --version"
+
+# Configuración del workspace
+workspace:
+  # Archivos que se mostrarán en el explorador
+  open_files:
+    - "tutorial.md"
+    - "README.md"
+    - "setup.sh"
